@@ -1,0 +1,53 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy1_Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="17" Column="38" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="15" Column="29" />
+      <File FileName="Assets\Scripts\player_state.cs" Line="30" Column="19" />
+      <File FileName="Assets\Scripts\Enemy1_Controller.cs" Line="16" Column="39" />
+      <File FileName="Assets\LeapMotionModules\InteractionEngine\Scripts\InteractionBehaviour.cs" Line="319" Column="43" />
+      <File FileName="Assets\LeapMotionModules\UIInput\Extras\Cursor3D.cs" Line="45" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="LeapMotion" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="LeapMotionModules" expanded="True">
+                <Node name="InteractionEngine" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="InteractionBehaviours" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="UIInput" expanded="True">
+                  <Node name="Extras" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="OVR" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Plugins" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy1_Controller.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
